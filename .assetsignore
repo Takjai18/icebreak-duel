@@ -8,3 +8,5 @@ package-lock.json
 wrangler.jsonc
 .assetsignore
 .dev.vars
+scripts
+*.log
