@@ -1,0 +1,16 @@
+{
+  "name": "破冰對決 ICEBREAK DUEL",
+  "short_name": "破冰對決",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#07070d",
+  "theme_color": "#07070d",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

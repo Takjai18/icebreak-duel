@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+.wrangler
+.dev.vars
+*.log
+package-lock.json
+scripts/shots
+scripts/verify.mjs
