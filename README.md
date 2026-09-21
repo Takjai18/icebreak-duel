@@ -14,13 +14,16 @@
 
 ## 本機開啟
 
-用瀏覽器打開 `index.html`，或者：
+用瀏覽器打開 `public/index.html`，或者：
 
 ```bash
-python3 -m http.server 8788
+python3 -m http.server 8788 --directory public
 ```
 
 然後開 <http://localhost:8788>
+
+線上版：<https://icebreak-duel.ymtwill.workers.dev>  
+原始碼：<https://github.com/Takjai18/icebreak-duel>
 
 加 `?demo` 會自動填示範名單，方便彩排。
 

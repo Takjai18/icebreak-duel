@@ -3,7 +3,7 @@
   "private": true,
   "description": "破冰對決 ICEBREAK DUEL — 20-minute two-team icebreaker",
   "scripts": {
-    "dev": "python3 -m http.server 8788",
+    "dev": "python3 -m http.server 8788 --directory public",
     "deploy": "wrangler deploy"
   }
 }
